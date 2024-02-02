@@ -1,6 +1,5 @@
 {
     "emulator.androidColdBoot": true,
     "emulator.emulatorPathWindows": "",
-    "java.project.explorer.showNonJavaResources": false,
-    "dart.flutterSdkPath": "C:\\flutter"
+    "java.project.explorer.showNonJavaResources": false
 }
